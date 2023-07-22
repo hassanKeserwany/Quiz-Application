@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answer-1": "London",
+    "answer-2": "Paris",
+    "answer-3": "Berlin",
+    "answer-4": "Rome",
+    "right-answer": "Paris"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "answer-1": "Venus",
+    "answer-2": "Mars",
+    "answer-3": "Jupiter",
+    "answer-4": "Neptune",
+    "right-answer": "Mars"
+  },
+  {
+    "question": "What is the largest mammal on Earth?",
+    "answer-1": "Elephant",
+    "answer-2": "Giraffe",
+    "answer-3": "Whale",
+    "answer-4": "Tiger",
+    "right-answer": "Whale"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "answer-1": "Pablo Picasso",
+    "answer-2": "Leonardo da Vinci",
+    "answer-3": "Vincent van Gogh",
+    "answer-4": "Michelangelo",
+    "right-answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "answer-1": "Mount Everest",
+    "answer-2": "K2",
+    "answer-3": "Makalu",
+    "answer-4": "Annapurna",
+    "right-answer": "Mount Everest"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "answer-1": "Ag",
+    "answer-2": "Au",
+    "answer-3": "Fe",
+    "answer-4": "Cu",
+    "right-answer": "Au"
+  },
+  {
+    "question": "Which country is known for the Great Wall?",
+    "answer-1": "Japan",
+    "answer-2": "China",
+    "answer-3": "India",
+    "answer-4": "Mexico",
+    "right-answer": "China"
+  },
+  {
+    "question": "What is the largest ocean in the world?",
+    "answer-1": "Pacific Ocean",
+    "answer-2": "Atlantic Ocean",
+    "answer-3": "Indian Ocean",
+    "answer-4": "Arctic Ocean",
+    "right-answer": "Pacific Ocean"
+  },
+  {
+    "question": "Who wrote the Harry Potter book series?",
+    "answer-1": "J.K. Rowling",
+    "answer-2": "Stephenie Meyer",
+    "answer-3": "Suzanne Collins",
+    "answer-4": "George R.R. Martin",
+    "right-answer": "J.K. Rowling"
+  },
+  {
+    "question": "What is the largest planet in our solar system?",
+    "answer-1": "Saturn",
+    "answer-2": "Jupiter",
+    "answer-3": "Mercury",
+    "answer-4": "Earth",
+    "right-answer": "Jupiter"
+  }]
+  

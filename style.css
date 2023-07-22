@@ -1,0 +1,120 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: tahoma, arial;
+}
+.QuizContainer {
+  margin: 20px auto;
+  width: 800px;
+  background-color: #f8f8f8;
+  padding: 15px;
+}
+.QuizContainer .info {
+  display: flex;
+  padding: 20px;
+  background-color: white;
+  border-bottom: #d4c5c5 solid 1px;
+  border-radius: 5px;
+}
+.QuizContainer .info .category {
+  flex: 1;
+}
+.QuizContainer .info .count {
+  flex: 1;
+  text-align: right;
+}
+.count span {
+  font-weight: bold;
+  color: #470303;
+}
+
+.QuizContainer .QuestionArea {
+  padding: 20px;
+  margin: 10px;
+}
+.QuizContainer .answerArea {
+  padding: 20px;
+  margin: 10px;
+}
+.QuizContainer .answerArea .answer {
+  padding: 10px;
+  margin: 10px;
+}
+.QuizContainer .answerArea .answer label {
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 16px;
+  top: -2px;
+  position: relative;
+  margin-left: 4px;
+}
+.QuizContainer .answerArea .answer input[type="radio"]:checked + label {
+  color: rgb(50, 111, 243);
+}
+.QuizContainer .answerArea .answer:not(:last-child) {
+  border-bottom: 1px #e2c0c0 solid;
+}
+.QuizContainer .submit {
+  display: block;
+  padding: 10px;
+  margin: 20px auto;
+  width: 100%;
+  /* height: 50%; */
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  border-radius: 10px;
+  border: none;
+  background-color: rgb(109, 109, 238);
+  cursor: pointer;
+}
+.QuizContainer .submit:focus {
+  outline: none;
+}
+.QuizContainer .bullets {
+  border-top: solid 1px rgb(185, 185, 235);
+  display: flex;
+  padding: 20px;
+}
+.QuizContainer .bullets .spans {
+  /* margin: 20px auto  ; */
+  display: flex;
+  flex-wrap: wrap;
+  flex: 1;
+}
+.QuizContainer .bullets .spans span {
+  border-radius: 10px;
+  background-color: aqua;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  margin-top: 5px;
+}
+.QuizContainer .bullets .spans span.on {
+  background-color: blue;
+}
+
+.QuizContainer .result span {
+  font-weight: bold;
+}
+.QuizContainer .result span.good {
+  font-weight: bold;
+  color: blue;
+}
+.QuizContainer .result span.bad {
+  font-weight: bold;
+  color: red;
+}
+.QuizContainer .result span.perfect {
+  font-weight: bold;
+  color: green;
+}
+
+.results span {
+  font-weight: bold;
+  font-size: 20px;
+  color: rgb(148, 10, 10);
+  
+  padding: 5px;
+}

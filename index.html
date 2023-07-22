@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link rel="stylesheet" href="style.css">
+
+        <title>Quiz Application</title>
+    </head>
+
+    <body>
+
+        <div class="QuizContainer">
+            <div class="info">
+                <div class="category">category</div>
+                <div class="count">Number of Qestions: <span></span></div>
+            </div>
+
+            <div class="QuestionArea">
+
+            </div>
+
+            <div class="answerArea">
+                <!-- <div class="answer">
+                    <input type="radio" name="answers" id="answer-1">
+                    <label for="answer-1">answer1</label>
+                </div> -->
+
+
+            </div>
+            <button class="submit">Confirm Answer</button>
+
+            <div class="bullets">
+                <div class="spans">
+
+                </div>
+            </div>
+            <!-- <div class="countDown">
+                <span class="minutes">01</span>
+                <span class="seconds">45</span>
+            </div> -->
+            <div class="results">
+                Your status is :<span></span>
+                <p></p>
+            </div>
+
+        </div>
+        <audio id="success" src="sound/trueSound.wav" preload="auto"></audio>
+        <audio id="fail" src="sound/falseSound.mp3" preload="auto"></audio>
+
+        <script src="main.js"></script>
+    </body>
+
+</html>

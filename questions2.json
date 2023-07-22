@@ -1,0 +1,969 @@
+[{
+    "question": "Which animal is known for its black and white stripes?",
+    "answer-1": "Tiger",
+    "answer-2": "Lion",
+    "answer-3": "Zebra",
+    "answer-4": "Cheetah",
+    "right-answer": "Zebra"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "answer-1": "Alexander Graham Bell",
+    "answer-2": "Thomas Edison",
+    "answer-3": "Nikola Tesla",
+    "answer-4": "Albert Einstein",
+    "right-answer": "Alexander Graham Bell"
+  },
+  {
+    "question": "Which planet is known as the Blue Planet?",
+    "answer-1": "Earth",
+    "answer-2": "Uranus",
+    "answer-3": "Saturn",
+    "answer-4": "Neptune",
+    "right-answer": "Earth"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "answer-1": "Brain",
+    "answer-2": "Liver",
+    "answer-3": "Skin",
+    "answer-4": "Heart",
+    "right-answer": "Skin"
+  },
+  {
+    "question": "Who painted the Sistine Chapel ceiling?",
+    "answer-1": "Rembrandt",
+    "answer-2": "Pablo Picasso",
+    "answer-3": "Vincent van Gogh",
+    "answer-4": "Michelangelo",
+    "right-answer": "Michelangelo"
+  },
+  {
+    "question": "What is the smallest planet in our solar system?",
+    "answer-1": "Neptune",
+    "answer-2": "Venus",
+    "answer-3": "Mercury",
+    "answer-4": "Mars",
+    "right-answer": "Mercury"
+  },
+  {
+    "question": "Which country is known for the pyramids?",
+    "answer-1": "Greece",
+    "answer-2": "Egypt",
+    "answer-3": "Brazil",
+    "answer-4": "Italy",
+    "right-answer": "Egypt"
+  },
+  {
+    "question": "What is the main language spoken in Japan?",
+    "answer-1": "Chinese",
+    "answer-2": "Japanese",
+    "answer-3": "Korean",
+    "answer-4": "Thai",
+    "right-answer": "Japanese"
+  },
+  {
+    "question": "Which continent is known as the 'Land Down Under'?",
+    "answer-1": "Europe",
+    "answer-2": "Asia",
+    "answer-3": "Australia",
+    "answer-4": "South America",
+    "right-answer": "Australia"
+  },
+  {
+    "question": "Who is the famous playwright who wrote 'Romeo and Juliet'?",
+    "answer-1": "William Shakespeare",
+    "answer-2": "George Bernard Shaw",
+    "answer-3": "Oscar Wilde",
+    "answer-4": "Arthur Miller",
+    "right-answer": "William Shakespeare"
+  },
+  {
+    "question": "What is the currency of the United States?",
+    "answer-1": "Euro",
+    "answer-2": "Yen",
+    "answer-3": "Dollar",
+    "answer-4": "Pound",
+    "right-answer": "Dollar"
+  },
+  {
+    "question": "Which animal is known for its long neck?",
+    "answer-1": "Giraffe",
+    "answer-2": "Elephant",
+    "answer-3": "Kangaroo",
+    "answer-4": "Lion",
+    "right-answer": "Giraffe"
+  },
+  {
+    "question": "Who painted the Starry Night?",
+    "answer-1": "Pablo Picasso",
+    "answer-2": "Leonardo da Vinci",
+    "answer-3": "Vincent van Gogh",
+    "answer-4": "Michelangelo",
+    "right-answer": "Vincent van Gogh"
+  },
+  {
+    "question": "What is the largest bird in the world?",
+    "answer-1": "Penguin",
+    "answer-2": "Ostrich",
+    "answer-3": "Eagle",
+    "answer-4": "Flamingo",
+    "right-answer": "Ostrich"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "answer-1": "Yen",
+    "answer-2": "Pound",
+    "answer-3": "Dollar",
+    "answer-4": "Euro",
+    "right-answer": "Yen"
+  },
+  {
+    "question": "Which country is known for the Taj Mahal?",
+    "answer-1": "India",
+    "answer-2": "Spain",
+    "answer-3": "Australia",
+    "answer-4": "Canada",
+    "right-answer": "India"
+  },
+  {
+    "question": "What is the largest reptile in the world?",
+    "answer-1": "Komodo dragon",
+    "answer-2": "Crocodile",
+    "answer-3": "Turtle",
+    "answer-4": "Lizard",
+    "right-answer": "Crocodile"
+  },
+  {
+    "question": "Who is the creator of the Marvel Universe?",
+    "answer-1": "Stan Lee",
+    "answer-2": "Jack Kirby",
+    "answer-3": "Alan Moore",
+    "answer-4": "Neil Gaiman",
+    "right-answer": "Stan Lee"
+  },
+  {
+    "question": "Which country is known for the Eiffel Tower?",
+    "answer-1": "Italy",
+    "answer-2": "Germany",
+    "answer-3": "France",
+    "answer-4": "Netherlands",
+    "right-answer": "France"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "answer-1": "Gobi Desert",
+    "answer-2": "Sahara Desert",
+    "answer-3": "Mojave Desert",
+    "answer-4": "Atacama Desert",
+    "right-answer": "Sahara Desert"
+  },
+  {
+    "question": "Who discovered gravity?",
+    "answer-1": "Isaac Newton",
+    "answer-2": "Albert Einstein",
+    "answer-3": "Galileo Galilei",
+    "answer-4": "Nikola Tesla",
+    "right-answer": "Isaac Newton"
+  },
+  {
+    "question": "What is the largest city in the world by population?",
+    "answer-1": "Tokyo",
+    "answer-2": "New York City",
+    "answer-3": "Beijing",
+    "answer-4": "Mumbai",
+    "right-answer": "Tokyo"
+  },
+  {
+    "question": "Who painted the famous painting 'The Last Supper'?",
+    "answer-1": "Pablo Picasso",
+    "answer-2": "Leonardo da Vinci",
+    "answer-3": "Vincent van Gogh",
+    "answer-4": "Michelangelo",
+    "right-answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "What is the currency of the United Kingdom?",
+    "answer-1": "Euro",
+    "answer-2": "Dollar",
+    "answer-3": "Pound",
+    "answer-4": "Yen",
+    "right-answer": "Pound"
+  },
+  {
+    "question": "Which animal is known as the 'King of the Jungle'?",
+    "answer-1": "Tiger",
+    "answer-2": "Lion",
+    "answer-3": "Leopard",
+    "answer-4": "Jaguar",
+    "right-answer": "Lion"
+  },
+  {
+    "question": "Who wrote the famous play 'Hamlet'?",
+    "answer-1": "William Shakespeare",
+    "answer-2": "George Bernard Shaw",
+    "answer-3": "Oscar Wilde",
+    "answer-4": "Arthur Miller",
+    "right-answer": "William Shakespeare"
+  },
+  {
+    "question": "What is the largest ocean predator?",
+    "answer-1": "Shark",
+    "answer-2": "Whale",
+    "answer-3": "Dolphin",
+    "answer-4": "Octopus",
+    "right-answer": "Shark"
+  },
+  {
+    "question": "Which country is known for the Colosseum?",
+    "answer-1": "Italy",
+    "answer-2": "Greece",
+    "answer-3": "Spain",
+    "answer-4": "Turkey",
+    "right-answer": "Italy"
+  },
+  {
+    "question": "What is the largest forest in the world?",
+    "answer-1": "Amazon Rainforest",
+    "answer-2": "Congo Rainforest",
+    "answer-3": "Taiga",
+    "answer-4": "Borneo Rainforest",
+    "right-answer": "Amazon Rainforest"
+  },
+  {
+    "question": "Who invented the light bulb?",
+    "answer-1": "Alexander Graham Bell",
+    "answer-2": "Thomas Edison",
+    "answer-3": "Nikola Tesla",
+    "answer-4": "Albert Einstein",
+    "right-answer": "Thomas Edison"
+  },
+  {
+    "question": "What is the largest fish in the world?",
+    "answer-1": "Tuna",
+    "answer-2": "Swordfish",
+    "answer-3": "Whale shark",
+    "answer-4": "Dolphin",
+    "right-answer": "Whale shark"
+  },
+  {
+    "question": "Which country is known for the Statue of Liberty?",
+    "answer-1": "United States",
+    "answer-2": "France",
+    "answer-3": "Italy",
+    "answer-4": "United Kingdom",
+    "right-answer": "United States"
+  },
+  {
+    "question": "What is the largest land animal in the world?",
+    "answer-1": "Elephant",
+    "answer-2": "Giraffe",
+    "answer-3": "Hippopotamus",
+    "answer-4": "Rhinoceros",
+    "right-answer": "Elephant"
+  },
+  {
+    "question": "Who wrote the famous novel 'Pride and Prejudice'?",
+    "answer-1": "Jane Austen",
+    "answer-2": "Charlotte Bronte",
+    "answer-3": "Emily Bronte",
+    "answer-4": "Louisa May Alcott",
+    "right-answer": "Jane Austen"
+  },
+  {
+    "question": "What is the largest volcano in the world?",
+    "answer-1": "Mount Vesuvius",
+    "answer-2": "Mount Kilimanjaro",
+    "answer-3": "Mount Everest",
+    "answer-4": "Mauna Loa",
+    "right-answer": "Mauna Loa"
+  },
+  {
+    "question": "Which country is known for the Pyramids of Giza?",
+    "answer-1": "Greece",
+    "answer-2": "Egypt",
+    "answer-3": "Mexico",
+    "answer-4": "China",
+    "right-answer": "Egypt"
+  },
+  {
+    "question": "What is the main language spoken in Brazil?",
+    "answer-1": "Spanish",
+    "answer-2": "French",
+    "answer-3": "Portuguese",
+    "answer-4": "Italian",
+    "right-answer": "Portuguese"
+  },
+  {
+    "question": "What is the largest moon in our solar system?",
+    "answer-1": "Titan",
+    "answer-2": "Europa",
+    "answer-3": "Ganymede",
+    "answer-4": "Phobos",
+    "right-answer": "Ganymede"
+  },
+  {
+    "question": "Who wrote the famous play 'Macbeth'?",
+    "answer-1": "William Shakespeare",
+    "answer-2": "George Bernard Shaw",
+    "answer-3": "Oscar Wilde",
+    "answer-4": "Arthur Miller",
+    "right-answer": "William Shakespeare"
+  },
+  {
+    "question": "What is the largest waterfall in the world?",
+    "answer-1": "Angel Falls",
+    "answer-2": "Niagara Falls",
+    "answer-3": "Victoria Falls",
+    "answer-4": "Iguazu Falls",
+    "right-answer": "Angel Falls"
+  },
+  {
+    "question": "Which country is known for the Acropolis?",
+    "answer-1": "Italy",
+    "answer-2": "Greece",
+    "answer-3": "Spain",
+    "answer-4": "Turkey",
+    "right-answer": "Greece"
+  },
+  {
+    "question": "What is the largest lake in Africa?",
+    "answer-1": "Lake Victoria",
+    "answer-2": "Lake Tanganyika",
+    "answer-3": "Lake Malawi",
+    "answer-4": "Lake Chad",
+    "right-answer": "Lake Victoria"
+  },
+  {
+    "question": "Who painted the famous painting 'The Starry Night'?",
+    "answer-1": "Pablo Picasso",
+    "answer-2": "Leonardo da Vinci",
+    "answer-3": "Vincent van Gogh",
+    "answer-4": "Michelangelo",
+    "right-answer": "Vincent van Gogh"
+  },
+  {
+    "question": "What is the largest bird of prey?",
+    "answer-1": "Eagle",
+    "answer-2": "Hawk",
+    "answer-3": "Owl",
+    "answer-4": "Falcon",
+    "right-answer": "Eagle"
+  },
+  {
+    "question": "What is the currency of China?",
+    "answer-1": "Yuan",
+    "answer-2": "Pound",
+    "answer-3": "Dollar",
+    "answer-4": "Euro",
+    "right-answer": "Yuan"
+  },
+  {
+    "question": "Which country is known for the Machu Picchu ruins?",
+    "answer-1": "Brazil",
+    "answer-2": "Peru",
+    "answer-3": "Chile",
+    "answer-4": "Argentina",
+    "right-answer": "Peru"
+  },
+  {
+    "question": "What is the largest cat species in the world?",
+    "answer-1": "Tiger",
+    "answer-2": "Lion",
+    "answer-3": "Leopard",
+    "answer-4": "Cheetah",
+    "right-answer": "Tiger"
+  },
+  {
+    "question": "Who wrote the famous novel 'To Kill a Mockingbird'?",
+    "answer-1": "Harper Lee",
+    "answer-2": "J.D. Salinger",
+    "answer-3": "F. Scott Fitzgerald",
+    "answer-4": "Mark Twain",
+    "right-answer": "Harper Lee"
+  },
+  {
+    "question": "What is the largest flower in the world?",
+    "answer-1": "Rose",
+    "answer-2": "Sunflower",
+    "answer-3": "Orchid",
+    "answer-4": "Rafflesia",
+    "right-answer": "Rafflesia"
+  },
+  {
+    "question": "Which country is known for the Hagia Sophia?",
+    "answer-1": "Italy",
+    "answer-2": "Greece",
+    "answer-3": "Turkey",
+    "answer-4": "Egypt",
+    "right-answer": "Turkey"
+  },
+  {
+    "question": "What is the largest island in the world?",
+    "answer-1": "Greenland",
+    "answer-2": "Borneo",
+    "answer-3": "Madagascar",
+    "answer-4": "New Guinea",
+    "right-answer": "Greenland"
+  },
+  {
+    "question": "Who is the creator of the Theory of Relativity?",
+    "answer-1": "Isaac Newton",
+    "answer-2": "Albert Einstein",
+    "answer-3": "Galileo Galilei",
+    "answer-4": "Nikola Tesla",
+    "right-answer": "Albert Einstein"
+  },
+  {
+    "question": "What is the largest city in the world by area?",
+    "answer-1": "Tokyo",
+    "answer-2": "New York City",
+    "answer-3": "Moscow",
+    "answer-4": "Beijing",
+    "right-answer": "Moscow"
+  },
+  {
+    "question": "Who painted the famous painting 'Guernica'?",
+    "answer-1": "Pablo Picasso",
+    "answer-2": "Leonardo da Vinci",
+    "answer-3": "Vincent van Gogh",
+    "answer-4": "Michelangelo",
+    "right-answer": "Pablo Picasso"
+  },
+  {
+    "question": "What is the currency of Canada?",
+    "answer-1": "Euro",
+    "answer-2": "Yen",
+    "answer-3": "Dollar",
+    "answer-4": "Pound",
+    "right-answer": "Dollar"
+  },
+  {
+    "question": "Which animal is known for its long trunk?",
+    "answer-1": "Elephant",
+    "answer-2": "Giraffe",
+    "answer-3": "Kangaroo",
+    "answer-4": "Lion",
+    "right-answer": "Elephant"
+  },
+  {
+    "question": "Who painted the famous painting 'The Persistence of Memory'?",
+    "answer-1": "Pablo Picasso",
+    "answer-2": "Leonardo da Vinci",
+    "answer-3": "Vincent van Gogh",
+    "answer-4": "Salvador Dalí",
+    "right-answer": "Salvador Dalí"
+  },
+  {
+    "question": "What is the currency of Australia?",
+    "answer-1": "Euro",
+    "answer-2": "Yen",
+    "answer-3": "Dollar",
+    "answer-4": "Pound",
+    "right-answer": "Dollar"
+  },
+  {
+    "question": "Which country is known for the Petra ruins?",
+    "answer-1": "Brazil",
+    "answer-2": "Peru",
+    "answer-3": "Chile",
+    "answer-4": "Jordan",
+    "right-answer": "Jordan"
+  },
+  {
+    "question": "What is the largest rodent in the world?",
+    "answer-1": "Rat",
+    "answer-2": "Squirrel",
+    "answer-3": "Gopher",
+    "answer-4": "Capybara",
+    "right-answer": "Capybara"
+  },
+  {
+    "question": "Who wrote the famous play 'The Importance of Being Earnest'?",
+    "answer-1": "William Shakespeare",
+    "answer-2": "George Bernard Shaw",
+    "answer-3": "Oscar Wilde",
+    "answer-4": "Arthur Miller",
+    "right-answer": "Oscar Wilde"
+  },
+  {
+    "question": "What is the largest spider in the world?",
+    "answer-1": "Tarantula",
+    "answer-2": "Black widow",
+    "answer-3": "Wolf spider",
+    "answer-4": "Goliath birdeater",
+    "right-answer": "Goliath birdeater"
+  },
+  {
+    "question": "Which country is known for the Angkor Wat temple complex?",
+    "answer-1": "Vietnam",
+    "answer-2": "Thailand",
+    "answer-3": "Cambodia",
+    "answer-4": "Laos",
+    "right-answer": "Cambodia"
+  },
+  {
+    "question": "What is the largest cave in the world?",
+    "answer-1": "Son Doong Cave",
+    "answer-2": "Mammoth Cave",
+    "answer-3": "Hang Sơn Đoòng",
+    "answer-4": "Świetokrzyska Cave",
+    "right-answer": "Son Doong Cave"
+  },
+  {
+    "question": "Who wrote the famous novel '1984'?",
+    "answer-1": "George Orwell",
+    "answer-2": "Aldous Huxley",
+    "answer-3": "Ray Bradbury",
+    "answer-4": "Kurt Vonnegut",
+    "right-answer": "George Orwell"
+  },
+  {
+    "question": "What is the largest bird in the world?",
+    "answer-1": "Penguin",
+    "answer-2": "Ostrich",
+    "answer-3": "Eagle",
+    "answer-4": "Albatross",
+    "right-answer": "Ostrich"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "answer-1": "Yuan",
+    "answer-2": "Pound",
+    "answer-3": "Dollar",
+    "answer-4": "Yen",
+    "right-answer": "Yen"
+  },
+  {
+    "question": "Which country is known for the Great Barrier Reef?",
+    "answer-1": "Brazil",
+    "answer-2": "Australia",
+    "answer-3": "Mexico",
+    "answer-4": "China",
+    "right-answer": "Australia"
+  },
+  {
+    "question": "What is the largest rodent in North America?",
+    "answer-1": "Mouse",
+    "answer-2": "Squirrel",
+    "answer-3": "Beaver",
+    "answer-4": "Muskrat",
+    "right-answer": "Beaver"
+  },
+  {
+    "question": "Who wrote the famous novel 'The Great Gatsby'?",
+    "answer-1": "F. Scott Fitzgerald",
+    "answer-2": "Ernest Hemingway",
+    "answer-3": "John Steinbeck",
+    "answer-4": "Mark Twain",
+    "right-answer": "F. Scott Fitzgerald"
+  },
+  {
+    "question": "What is the largest land animal in North America?",
+    "answer-1": "Moose",
+    "answer-2": "Bear",
+    "answer-3": "Bison",
+    "answer-4": "Wolf",
+    "right-answer": "Bison"
+  },
+  {
+    "question": "Who painted the famous painting 'The Girl with a Pearl Earring'?",
+    "answer-1": "Pablo Picasso",
+    "answer-2": "Leonardo da Vinci",
+    "answer-3": "Vincent van Gogh",
+    "answer-4": "Johannes Vermeer",
+    "right-answer": "Johannes Vermeer"
+  },
+  {
+    "question": "What is the currency of India?",
+    "answer-1": "Rupee",
+    "answer-2": "Yuan",
+    "answer-3": "Dollar",
+    "answer-4": "Euro",
+    "right-answer": "Rupee"
+  },
+  {
+    "question": "Which animal is known for its black and white stripes?",
+    "answer-1": "Tiger",
+    "answer-2": "Lion",
+    "answer-3": "Zebra",
+    "answer-4": "Cheetah",
+    "right-answer": "Zebra"
+  },
+  {
+    "question": "Who is the creator of the Sherlock Holmes detective stories?",
+    "answer-1": "Arthur Conan Doyle",
+    "answer-2": "Agatha Christie",
+    "answer-3": "Raymond Chandler",
+    "answer-4": "Dashiell Hammett",
+    "right-answer": "Arthur Conan Doyle"
+  },
+  {
+    "question": "What is the largest desert in Asia?",
+    "answer-1": "Gobi Desert",
+    "answer-2": "Sahara Desert",
+    "answer-3": "Arabian Desert",
+    "answer-4": "Thar Desert",
+    "right-answer": "Gobi Desert"
+  },
+  {
+    "question": "Which country is known for the Leaning Tower of Pisa?",
+    "answer-1": "Italy",
+    "answer-2": "Greece",
+    "answer-3": "Spain",
+    "answer-4": "France",
+    "right-answer": "Italy"
+  },
+  {
+    "question": "What is the largest lake in the United States?",
+    "answer-1": "Lake Superior",
+    "answer-2": "Lake Michigan",
+    "answer-3": "Lake Huron",
+    "answer-4": "Lake Erie",
+    "right-answer": "Lake Superior"
+  },
+  {
+    "question": "Who wrote the famous play 'A Midsummer Night's Dream'?",
+    "answer-1": "William Shakespeare",
+    "answer-2": "George Bernard Shaw",
+    "answer-3": "Oscar Wilde",
+    "answer-4": "Arthur Miller",
+    "right-answer": "William Shakespeare"
+  },
+  {
+    "question": "What is the largest waterfall in North America?",
+    "answer-1": "Angel Falls",
+    "answer-2": "Niagara Falls",
+    "answer-3": "Victoria Falls",
+    "answer-4": "Iguazu Falls",
+    "right-answer": "Niagara Falls"
+  },
+  {
+    "question": "Which country is known for the Louvre Museum?",
+    "answer-1": "Italy",
+    "answer-2": "Greece",
+    "answer-3": "France",
+    "answer-4": "Spain",
+    "right-answer": "France"
+  },
+  {
+    "question": "What is the largest lake in Europe?",
+    "answer-1": "Lake Superior",
+    "answer-2": "Lake Michigan",
+    "answer-3": "Lake Baikal",
+    "answer-4": "Lake Huron",
+    "right-answer": "Lake Baikal"
+  },
+  {
+    "question": "Who wrote the famous novel 'Moby-Dick'?",
+    "answer-1": "Herman Melville",
+    "answer-2": "Emily Dickinson",
+    "answer-3": "Walt Whitman",
+    "answer-4": "Henry David Thoreau",
+    "right-answer": "Herman Melville"
+  },
+  {
+    "question": "What is the largest waterfall in Africa?",
+    "answer-1": "Angel Falls",
+    "answer-2": "Niagara Falls",
+    "answer-3": "Victoria Falls",
+    "answer-4": "Iguazu Falls",
+    "right-answer": "Victoria Falls"
+  },
+  {
+    "question": "Which country is known for the Hermitage Museum?",
+    "answer-1": "Italy",
+    "answer-2": "Greece",
+    "answer-3": "Russia",
+    "answer-4": "Spain",
+    "right-answer": "Russia"
+  },
+  {
+    "question": "What is the largest lake in South America?",
+    "answer-1": "Lake Superior",
+    "answer-2": "Lake Michigan",
+    "answer-3": "Lake Titicaca",
+    "answer-4": "Lake Huron",
+    "right-answer": "Lake Titicaca"
+  },
+  {
+    "question": "Who wrote the famous novel 'The Catcher in the Rye'?",
+    "answer-1": "J.D. Salinger",
+    "answer-2": "Ernest Hemingway",
+    "answer-3": "F. Scott Fitzgerald",
+    "answer-4": "John Steinbeck",
+    "right-answer": "J.D. Salinger"
+  },
+  {
+    "question": "What is the currency of Brazil?",
+    "answer-1": "Real",
+    "answer-2": "Yuan",
+    "answer-3": "Dollar",
+    "answer-4": "Euro",
+    "right-answer": "Real"
+  },
+  {
+    "question": "Which animal is known for its long neck?",
+    "answer-1": "Giraffe",
+    "answer-2": "Elephant",
+    "answer-3": "Kangaroo",
+    "answer-4": "Lion",
+    "right-answer": "Giraffe"
+  },
+  {
+    "question": "Who painted the famous painting 'The Birth of Venus'?",
+    "answer-1": "Pablo Picasso",
+    "answer-2": "Leonardo da Vinci",
+    "answer-3": "Vincent van Gogh",
+    "answer-4": "Sandro Botticelli",
+    "right-answer": "Sandro Botticelli"
+  },
+  {
+    "question": "What is the currency of Mexico?",
+    "answer-1": "Peso",
+    "answer-2": "Yuan",
+    "answer-3": "Dollar",
+    "answer-4": "Euro",
+    "right-answer": "Peso"
+  },
+  {
+    "question": "Which country is known for the Forbidden City?",
+    "answer-1": "Japan",
+    "answer-2": "China",
+    "answer-3": "India",
+    "answer-4": "Russia",
+    "right-answer": "China"
+  },
+  {
+    "question": "What is the largest lake in Australia?",
+    "answer-1": "Lake Superior",
+    "answer-2": "Lake Michigan",
+    "answer-3": "Lake Eyre",
+    "answer-4": "Lake Huron",
+    "right-answer": "Lake Eyre"
+  },
+  {
+    "question": "Who wrote the famous play 'Romeo and Juliet'?",
+    "answer-1": "William Shakespeare",
+    "answer-2": "George Bernard Shaw",
+    "answer-3": "Oscar Wilde",
+    "answer-4": "Arthur Miller",
+    "right-answer": "William Shakespeare"
+  },
+  {
+    "question": "What is the currency of South Africa?",
+    "answer-1": "Rand",
+    "answer-2": "Yuan",
+    "answer-3": "Dollar",
+    "answer-4": "Euro",
+    "right-answer": "Rand"
+  },
+  {
+    "question": "Which animal is known as the 'King of the Jungle'?",
+    "answer-1": "Tiger",
+    "answer-2": "Lion",
+    "answer-3": "Leopard",
+    "answer-4": "Jaguar",
+    "right-answer": "Lion"
+  },
+  {
+    "question": "Who wrote the famous novel 'The Lord of the Rings'?",
+    "answer-1": "J.R.R. Tolkien",
+    "answer-2": "C.S. Lewis",
+    "answer-3": "George R.R. Martin",
+    "answer-4": "J.K. Rowling",
+    "right-answer": "J.R.R. Tolkien"
+  },
+  {
+    "question": "What is the largest lake in Canada?",
+    "answer-1": "Lake Superior",
+    "answer-2": "Lake Michigan",
+    "answer-3": "Great Bear Lake",
+    "answer-4": "Lake Huron",
+    "right-answer": "Great Bear Lake"
+  },
+  {
+    "question": "Who painted the famous painting 'The Scream'?",
+    "answer-1": "Pablo Picasso",
+    "answer-2": "Leonardo da Vinci",
+    "answer-3": "Vincent van Gogh",
+    "answer-4": "Edvard Munch",
+    "right-answer": "Edvard Munch"
+  },
+  {
+    "question": "What is the currency of Germany?",
+    "answer-1": "Euro",
+    "answer-2": "Dollar",
+    "answer-3": "Pound",
+    "answer-4": "Yen",
+    "right-answer": "Euro"
+  },
+  {
+    "question": "Which animal is known for its ability to change its color?",
+    "answer-1": "Chameleon",
+    "answer-2": "Octopus",
+    "answer-3": "Squid",
+    "answer-4": "Cuttlefish",
+    "right-answer": "Chameleon"
+  },
+  {
+    "question": "Who painted the famous painting 'The Mona Lisa'?",
+    "answer-1": "Pablo Picasso",
+    "answer-2": "Leonardo da Vinci",
+    "answer-3": "Vincent van Gogh",
+    "answer-4": "Michelangelo",
+    "right-answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "What is the currency of the United Kingdom?",
+    "answer-1": "Euro",
+    "answer-2": "Dollar",
+    "answer-3": "Pound",
+    "answer-4": "Yen",
+    "right-answer": "Pound"
+  },
+  {
+    "question": "Which animal is known for its ability to climb trees?",
+    "answer-1": "Tiger",
+    "answer-2": "Lion",
+    "answer-3": "Leopard",
+    "answer-4": "Monkey",
+    "right-answer": "Monkey"
+  },
+  {
+    "question": "Who painted the famous painting 'The Starry Night'?",
+    "answer-1": "Pablo Picasso",
+    "answer-2": "Leonardo da Vinci",
+    "answer-3": "Vincent van Gogh",
+    "answer-4": "Michelangelo",
+    "right-answer": "Vincent van Gogh"
+  },
+  {
+    "question": "What is the currency of China?",
+    "answer-1": "Yuan",
+    "answer-2": "Pound",
+    "answer-3": "Dollar",
+    "answer-4": "Euro",
+    "right-answer": "Yuan"
+  },
+  {
+    "question": "Which country is known for the Great Wall?",
+    "answer-1": "Japan",
+    "answer-2": "China",
+    "answer-3": "India",
+    "answer-4": "Russia",
+    "right-answer": "China"
+  },
+  {
+    "question": "What is the largest fish in the world?",
+    "answer-1": "Tuna",
+    "answer-2": "Swordfish",
+    "answer-3": "Whale shark",
+    "answer-4": "Dolphin",
+    "right-answer": "Whale shark"
+  },
+  {
+    "question": "Which country is known for the Statue of Liberty?",
+    "answer-1": "United States",
+    "answer-2": "France",
+    "answer-3": "Italy",
+    "answer-4": "United Kingdom",
+    "right-answer": "United States"
+  },
+  {
+    "question": "What is the largest land animal in the world?",
+    "answer-1": "Elephant",
+    "answer-2": "Giraffe",
+    "answer-3": "Hippopotamus",
+    "answer-4": "Rhinoceros",
+    "right-answer": "Elephant"
+  },
+  {
+    "question": "Who wrote the famous novel 'Pride and Prejudice'?",
+    "answer-1": "Jane Austen",
+    "answer-2": "Charlotte Bronte",
+    "answer-3": "Emily Bronte",
+    "answer-4": "Louisa May Alcott",
+    "right-answer": "Jane Austen"
+  },
+  {
+    "question": "What is the currency of Russia?",
+    "answer-1": "Ruble",
+    "answer-2": "Yuan",
+    "answer-3": "Dollar",
+    "answer-4": "Euro",
+    "right-answer": "Ruble"
+  },
+  {
+    "question": "What is the largest volcano in the world?",
+    "answer-1": "Mount Vesuvius",
+    "answer-2": "Mount Kilimanjaro",
+    "answer-3": "Mount Everest",
+    "answer-4": "Mauna Loa",
+    "right-answer": "Mauna Loa"
+  },
+  {
+    "question": "Which country is known for the Pyramids of Giza?",
+    "answer-1": "Greece",
+    "answer-2": "Egypt",
+    "answer-3": "Mexico",
+    "answer-4": "China",
+    "right-answer": "Egypt"
+  },
+  {
+    "question": "What is the main language spoken in Brazil?",
+    "answer-1": "Spanish",
+    "answer-2": "French",
+    "answer-3": "Portuguese",
+    "answer-4": "Italian",
+    "right-answer": "Portuguese"
+  },
+  {
+    "question": "What is the largest moon in our solar system?",
+    "answer-1": "Titan",
+    "answer-2": "Europa",
+    "answer-3": "Ganymede",
+    "answer-4": "Phobos",
+    "right-answer": "Ganymede"
+  },
+  {
+    "question": "Who wrote the famous play 'Macbeth'?",
+    "answer-1": "William Shakespeare",
+    "answer-2": "George Bernard Shaw",
+    "answer-3": "Oscar Wilde",
+    "answer-4": "Arthur Miller",
+    "right-answer": "William Shakespeare"
+  },
+  {
+    "question": "What is the largest waterfall in the world?",
+    "answer-1": "Angel Falls",
+    "answer-2": "Niagara Falls",
+    "answer-3": "Victoria Falls",
+    "answer-4": "Iguazu Falls",
+    "right-answer": "Angel Falls"
+  },
+  {
+    "question": "Which country is known for the Acropolis?",
+    "answer-1": "Italy",
+    "answer-2": "Greece",
+    "answer-3": "Spain",
+    "answer-4": "Turkey",
+    "right-answer": "Greece"
+  },
+  {
+    "question": "What is the largest lake in Africa?",
+    "answer-1": "Lake Victoria",
+    "answer-2": "Lake Tanganyika",
+    "answer-3": "Lake Malawi",
+    "answer-4": "Lake Chad",
+    "right-answer": "Lake Victoria"
+  },
+  {
+    "question": "Who painted the famous painting 'The Starry Night'?",
+    "answer-1": "Pablo Picasso",
+    "answer-2": "Leonardo da Vinci",
+    "answer-3": "Vincent van Gogh",
+    "answer-4": "Michelangelo",
+    "right-answer": "Vincent van Gogh"
+  }
+ ]
