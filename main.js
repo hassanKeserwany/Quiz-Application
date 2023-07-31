@@ -32,7 +32,6 @@ function getQuestionsFromJSON(callback) {
           }
         });
       }
-      onload(addDataQuestions(QuestionObj[Q_index], questionLength));
 
       addDataQuestions(QuestionObj[Q_index], questionLength);
 
